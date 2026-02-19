@@ -36,7 +36,7 @@ st.title("**Loteria da Babilônia 🎲**", text_alignment = "center")
 st.markdown(
     """
     Nesse jogo será sorteado um número de 1 a 15 e o seu objetivo é acertá-lo.
-    Se você errar seu chute você saberá se ele é maior ou menor que o número sorteado. \n
+    Se você errar seu chute saberá se ele é maior ou menor que o número sorteado. \n
     Boa sorte!""",
     text_alignment = "center") 
 
